@@ -21,3 +21,25 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+/Aula02/build/
+/Aula04/build/
+/Aula06/build/
+/Aula10ProjetoPessoas/build/
+/Aula11/build/
+/Aula12/build/
+/CalculadoraIdade/build/
+/controledecomissão/dist/
+/controledecomissão/build/
+/ExemploPessoa/build/
+/ExemploProfessor/build/
+/HerancaPessoa/build/
+/LerNota/build/
+/principal/build/
+/ProjetoLivro/build/
+/RelogioSwing/build/
+/SomaSwing/build/
+/testecarro02/build/
+/TesteFunc/build/
+/TesteLampada/build/
+/testeretângulo/build/
+/UltraEmojiCombat/build/
