@@ -13,7 +13,7 @@ public class Aula12 {
         Tartaruga t = new Tartaruga();
         Goldfish g = new Goldfish();
         Arara e = new Arara();
-        int x = 1;
+        int x = 2;
         c.locomover();
         k.locomover();
         c.emitirSom();
